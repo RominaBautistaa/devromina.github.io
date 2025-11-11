@@ -409,6 +409,63 @@ html, body {
     0% { width: 0%;}
     100% { width: 92%;}
 }
+
+.skills .Skill .sqlserver{
+    width: 0%;
+    animation: 2s sqlserver forwards;
+}
+@keyframes sqlserver {
+    0% { width: 0%;}
+    100% { width: 88%;}
+}
+.skills .Skill .sqlite{
+    width: 0%;
+    animation: 2s sqlite forwards;
+}
+@keyframes sqlite {
+    0% { width: 0%;}
+    100% { width: 90%;}
+}
+.skills .Skill .powerbi{
+    width: 0%;
+    animation: 2s powerbi forwards;
+}
+@keyframes powerbi {
+    0% { width: 0%;}
+    100% { width: 70%;}
+}
+.skills .Skill .r{
+    width: 0%;
+    animation: 2s r forwards;
+}
+@keyframes r {
+    0% { width: 0%;}
+    100% { width: 65%;}
+}
+.skills .Skill .django{
+    width: 0%;
+    animation: 2s django forwards;
+}
+@keyframes django {
+    0% { width: 0%;}
+    100% { width: 68%;}
+}
+.skills .Skill .react{
+    width: 0%;
+    animation: 2s react forwards;
+}
+@keyframes react {
+    0% { width: 0%;}
+    100% { width: 65%;}
+}
+.skills .Skill .laravel{
+    width: 0%;
+    animation: 2s laravel forwards;
+}
+@keyframes laravel {
+    0% { width: 0%;}
+    100% { width: 60%;}
+}
 /*SECCION CURRICULUM*/
 .curriculum{
     background-color: #1e2326;
