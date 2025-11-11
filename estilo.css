@@ -294,16 +294,16 @@ html, body {
 }
 @keyframes javascript {
     0% { width: 0%;}
-    100% { width: 58%;}
+    100% { width: 70%;}
 }
 
-.skills .Skill .htlmcss{
+.skills .Skill .htmlcss{
     width: 0%;
     animation: 2s htmlcss forwards;
 }
 @keyframes htmlcss {
     0% { width: 0%;}
-    100% { width: 58%;}
+    100% { width: 88%;}
 }
 .skills .Skill .python{
     width: 0%;
@@ -311,7 +311,7 @@ html, body {
 }
 @keyframes python {
     0% { width: 0%;}
-    100% { width: 60%;}
+    100% { width: 85%;}
 }
 .skills .Skill .java{
     width: 0%;
@@ -319,7 +319,7 @@ html, body {
 }
 @keyframes java {
     0% { width: 0%;}
-    100% { width: 68%;}
+    100% { width: 75%;}
 }
 .skills .Skill .cmas{
     width: 0%;
@@ -327,7 +327,7 @@ html, body {
 }
 @keyframes cmas {
     0% { width: 0%;}
-    100% { width: 68%;}
+    100% { width: 70%;}
 }
 .skills .Skill .DJango{
     width: 0%;
@@ -351,7 +351,7 @@ html, body {
 }
 @keyframes excel {
     0% { width: 0%;}
-    100% { width: 60%;}
+    100% { width: 75%;}
 }
 .skills .Skill .ciberseguridad{
     width: 0%;
